@@ -109,6 +109,6 @@ Client ID: 9 | Name: Cliente_009 | Balance: 5.75
 
 ## 💬 Author
 
-Developed by **Daniel Santana** — Data Analyst & Python Developer  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-link)
+Developed by **Daniel Santana** — Data Scientist & Python Developer  
+📧 dsantana16dev@gmail.com.com  
+🔗 (https://www.linkedin.com/in/dsantanaweb/))
